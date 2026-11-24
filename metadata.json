@@ -1,0 +1,6 @@
+{
+  "name": "Nizhal - Public Safety & Civic Assistance",
+  "description": "Nizhal (நிழல்) is a multi-lingual public-safety and civic-assistance app for South India built for the Surakshit Bharat Hackathon. Features WhatsApp verifier, AI scam guard, SOS mesh network, central/state schemes hub, civic issue reporting, sign language bridge, and decoy PIN security.",
+  "requestFramePermissions": ["geolocation", "microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
